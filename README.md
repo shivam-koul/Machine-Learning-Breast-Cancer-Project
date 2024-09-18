@@ -43,20 +43,20 @@ The following machine learning classification models are compared:
 After running the project, the performance of each model was evaluated based on **Accuracy**, **Precision**, **Recall**, and **F1-Score**. Here are the results:
 
 ### Naive Bayes:
-- **Accuracy**: 0.93
+- **Accuracy**: 93%
 - **Precision**: 0.940
 - **Recall**: 0.917
 - **F1-Score**: 0.925
 
 ### Logistic Regression:
-- **Accuracy**: 0.95
+- **Accuracy**: 95%
 - **Precision**: 0.959
 - **Recall**: 0.935
 - **F1-Score**: 0.944
 
 ### K-Nearest Neighbors (KNN):
 - **Before fine-tuning**:
-  - **Accuracy**: 0.96
+  - **Accuracy**: 96%
   - **Precision**: 0.966
   - **Recall**: 0.946
   - **F1-Score**: 0.954
@@ -66,7 +66,7 @@ After running the project, the performance of each model was evaluated based on 
   - **Recall**: 0.94
 
 ### Decision Tree:
-- **Accuracy**: 0.89
+- **Accuracy**: 89%
 - **Precision**: 0.890
 - **Recall**: 0.873
 - **F1-Score**: 0.879
